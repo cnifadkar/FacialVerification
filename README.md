@@ -1,6 +1,6 @@
 # Facial Verification
 
-![Project Banner](path/to/your/banner/image.jpg)
+
 
 ## Overview
 
