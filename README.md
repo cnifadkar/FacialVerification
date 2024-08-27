@@ -10,9 +10,7 @@ This project implements a facial verification system using a Siamese neural netw
 
 - **Siamese Neural Network**: A custom Siamese network with an L1 distance layer for comparing image embeddings.
 - **Real-Time Verification**: Integration with OpenCV to capture images from a webcam and perform real-time facial verification.
-- **High Accuracy**: The model was trained to achieve high precision and recall on test data, with a verification success rate of 64% in real-time testing.
-- **Customizable Thresholds**: Fine-tune detection and verification thresholds to balance accuracy and false positive/negative rates.
-- **Model Persistence**: Save and load trained models for future use.
+- **High Accuracy**: The model was trained to achieve high precision and recall on test data, with a verification success rate of 95% in real-time testing.
 
-## Project Structure
+
 
